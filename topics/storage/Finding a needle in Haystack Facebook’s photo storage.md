@@ -1,6 +1,9 @@
 # Finding a needle in Haystack: Facebook’s photo storage
 
 ## 前言
+
+发表时间：2010/10/04
+
 这篇文章介绍了Facebook在存储海量小文件时遇到的问题，现有方案的瓶颈，并因此催生了Haystack。Haystack的设计中，主要技术决策的选择均有完善的线上数据支撑，而不是拍脑袋臆想，这是这篇文章给我最大的启发。
 
 ## 摘要
